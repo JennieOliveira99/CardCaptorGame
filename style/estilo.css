@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-size: cover;
+    transition: background 0.5s ease-in-out;
+  }
+
+  #text-container {
+    margin-top: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 35px;
+    background-color: rgba(255, 182, 193, 0.8);
+    margin-bottom: 15px;
+    color: rgb(202, 34, 34);
+    border-radius: 30px;
+  }
+
+  #change-button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-bottom: 55px;
+    border-radius: 30px;
+    animation: teste 1.5s infinite ease-in-out;
+
+
+  }
+
+  @keyframes teste {
+    50% {
+transform: translateY(-10%);
+    }
+  }
+  /*Estilizando o background inicial*/
+  .background1 {
+    background-image: url('/background10.png');
+  
+  }
+
+ 
