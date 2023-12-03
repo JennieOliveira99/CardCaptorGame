@@ -1,3 +1,11 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  box-sizing: border-box;
+}
+
+
 body {
     font-family: Arial, sans-serif;
     text-align: center;
@@ -11,6 +19,14 @@ body {
     transition: background 0.5s ease-in-out;
   }
 
+  /*primeiro background antes de carregar as fuções*/
+  .background1{
+    background-image: url('/img/principal.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+
   #text-container {
     margin-top: 35px;
     display: flex;
@@ -22,15 +38,22 @@ body {
     font-style: initial;
     margin-bottom: 15px;
     color: rgb(255, 255, 255);
-    text-overflow: initial;
+    font-size: 24px;
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
   }
-
   
   #image-container {
+    border: none;
+    outline: none;
     width: 350px;
-    height: 450px; 
+    height: 450px;
     animation: teste 3.5s infinite ease-in-out;
-
+    display: block;
+  }
+  
+  /* Adicione um estilo específico para o alt da imagem */
+  img[alt="png das personagens"] {
+    display: none;
   }
 
   
@@ -43,16 +66,20 @@ body {
     animation: teste 2.5s infinite ease-in-out;
 
   }
+  .button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 30px;
+    animation: teste 2.5s infinite ease-in-out;
+    background: linear-gradient(to bottom right, #3498db, #800080);
+    color: white;
+    border: 1px solid #ffffff; /* Adiciona uma borda branca à volta do botão */
+  }
 
   @keyframes teste {
     50% {
 transform: translateY(-10%);
     }
   }
-
-  .background1 {
-    background-image: url('img/principal.jpg');
-  
-  }
-
  
