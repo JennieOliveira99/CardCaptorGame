@@ -12,26 +12,35 @@ body {
   }
 
   #text-container {
-    margin-top: auto;
+    margin-top: 35px;
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
     padding: 35px;
-    background-color: rgba(255, 182, 193, 0.8);
+    font-size: large;
+    font-style: initial;
     margin-bottom: 15px;
-    color: rgb(202, 34, 34);
-    border-radius: 30px;
+    color: rgb(255, 255, 255);
+    text-overflow: initial;
   }
 
+  
+  #image-container {
+    width: 350px;
+    height: 450px; 
+    animation: teste 3.5s infinite ease-in-out;
+
+  }
+
+  
   #change-button {
     padding: 10px 20px;
     font-size: 16px;
     cursor: pointer;
     margin-bottom: 55px;
     border-radius: 30px;
-    animation: teste 1.5s infinite ease-in-out;
-
+    animation: teste 2.5s infinite ease-in-out;
 
   }
 
@@ -40,9 +49,9 @@ body {
 transform: translateY(-10%);
     }
   }
-  /*Estilizando o background inicial*/
+
   .background1 {
-    background-image: url('/principal.jpg');
+    background-image: url('img/principal.jpg');
   
   }
 
