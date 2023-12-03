@@ -40,7 +40,29 @@ body {
     color: rgb(255, 255, 255);
     font-size: 24px;
     text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+   
   }
+
+  #display-text {
+    overflow: hidden;
+    border-right: 0.15em solid rgb(0, 255, 115); /* Você pode ajustar a cor e a largura da borda aqui */
+    white-space: nowrap;
+    margin: 0 auto;
+   
+    animation: typing 3.5s steps(30, end);
+  }
+  
+  @keyframes typing {
+    from {
+      width: 0;
+    }
+  
+    to {
+      width: 100%;
+    }
+  }
+  
+
   
   #image-container {
     border: none;
