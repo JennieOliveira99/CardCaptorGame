@@ -45,11 +45,10 @@ body {
 
   #display-text {
     overflow: hidden;
-    border-right: 0.15em solid rgb(0, 255, 115); /* Você pode ajustar a cor e a largura da borda aqui */
+    border-right: 0.15em solid rgb(0, 255, 115); 
     white-space: nowrap;
     margin: 0 auto;
-   
-    animation: typing 3.5s steps(30, end);
+    animation: typing 1.0s steps(30, end);
   }
   
   @keyframes typing {

@@ -1,0 +1,61 @@
+html {
+	cursor: url(imagens/baculo.png) auto;
+}
+body{
+    background: no-repeat url(imagens/bg.jpg);
+}
+#corpo{
+    text-align: center;
+}
+.btn_jogo{
+    padding: 10px 20px;
+    font-size: 1.3em;
+    margin-top: 7px;
+    background: linear-gradient(to bottom right, #3498db, #800080);
+    color: white;
+    border: 1px solid #ffffff;
+    border-radius: 30px;
+    animation: teste 1.5s infinite ease-in-out;
+
+}
+
+
+
+
+@keyframes teste {
+    50% {
+transform: translateY(-10%);
+    }
+  }
+ 
+
+.card1{
+    width: 60px;
+    height: 60px;
+}
+.card2{
+    width: 80px;
+    height: 80px;
+}
+.card3{
+    width: 100px;
+    height: 100px;
+}
+
+.lado2{
+    transform: scaleX(-1);
+}
+.painel{
+    position: absolute;
+    width: 190px;
+    padding: 10px;
+    bottom: 10px;
+    left: 0px;
+    border-top: solid 1px #fff;
+    background: rgba(255, 255, 255, 0.7)
+}
+.cronometro{
+    float: left;
+    font-size: 20px;
+    font-weight: bold;
+}
