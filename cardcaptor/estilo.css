@@ -1,5 +1,5 @@
 html {
-	cursor: url(imagens/baculo.png) auto;
+	cursor: url(/imagens/baculo.png) auto;
 }
 body{
     background: no-repeat url(imagens/bg.jpg);
@@ -14,7 +14,7 @@ body{
     background: linear-gradient(to bottom right, #3498db, #800080);
     color: white;
     border: 1px solid #ffffff;
-    border-radius: 30px;
+    border-radius: 10px;
     animation: teste 1.5s infinite ease-in-out;
 
 }
@@ -49,10 +49,10 @@ transform: translateY(-10%);
     position: absolute;
     width: 190px;
     padding: 10px;
-    bottom: 10px;
+    bottom: 450px;
     left: 0px;
-    border-top: solid 1px #fff;
-    background: rgba(255, 255, 255, 0.7)
+    border: solid 1px #fff;
+    background: rgba(255, 255, 255, 0.3)
 }
 .cronometro{
     float: left;
