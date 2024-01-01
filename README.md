@@ -1,12 +1,12 @@
-markdown
-# Captor Sakura Card
+
+#  🌸Captor Sakura Card 🌸
 
 Este projeto é uma homenagem à magia e à amizade de Sakura Card Captors (CLAMP) .
 Acompanhe Sakura e Tomoyo capturando mais uma carta Clow.
 O projeto tem inspiração em jogos de simulação de vida onde há diálogos e o player vai avançando.
 Ao final, o jogador entra em outro jogo onde deverá capturar a carta onde Sakura foi aprisionada.
 
-## Como Usar:
+## 🌟🌟🌟Como Usar:
 
 1. Abra o arquivo `index.html` em um navegador web.
 2. Clique no botão "Avançar" para progredir na história.
@@ -14,7 +14,7 @@ Ao final, o jogador entra em outro jogo onde deverá capturar a carta onde Sakur
 4. Ao final, clique em "ajudar Tomoyo", e seja redirecionado à parte II do jogo
 5. Na parte II do jogo, tente capturar o máximo de carta Clow possível para libertar Sakura do encantamento.
 
-## Conteúdo do Projeto
+## 🌟🌟🌟Conteúdo do Projeto
 
 - **index.html:** Página principal do jogo com a história e interações.
 - **jogo.html:** Página para a qual o jogo redireciona no final.
