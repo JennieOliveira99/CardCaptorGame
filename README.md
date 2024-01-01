@@ -31,21 +31,27 @@ Ao final, o jogador entra em outro jogo onde deverá capturar a carta onde Sakur
 ## 🌟🌟🌟Ilustrações:
 
 Ilustrações originais, acompanhe meu trabalho também no Instagram: 
+ <br>
+ <a href="https://instagram.com/ruri_kurai" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 ## 🌟🌟🌟Prints
-![tomoyo](https://github.com/JennieOliveira99/SimulatorGame/assets/117695086/8e8115cf-debd-4a3f-8527-f73a65614816)
+![tomoyo](https://github.com/JennieOliveira99/SimulatorGame/assets/117695086/7e5ca9c5-695a-4d89-b924-9afe925d46da)
+
+![home1](https://github.com/JennieOliveira99/SimulatorGame/assets/117695086/0dc10540-9154-4925-af53-1e1394851309) 
+![captor](https://github.com/JennieOliveira99/SimulatorGame/assets/117695086/a310a9d0-633b-49ea-814d-bcc3225d4035)
+![win](https://github.com/JennieOliveira99/SimulatorGame/assets/117695086/6627b112-0e7f-4c9c-bd33-c20509cd734d)
+
+![over](https://github.com/JennieOliveira99/SimulatorGame/assets/117695086/47090010-27d4-4e20-a216-5ccca2a93258)
 
 
-![home](https://github.com/JennieOliveira99/SimulatorGame/assets/117695086/6d679195-fa89-4370-8c88-c843b683ea01)
-
-![captor](https://github.com/JennieOliveira99/SimulatorGame/assets/117695086/0868cb3c-cfaa-4c18-9eed-660725e15dbf)
-
-![win](https://github.com/JennieOliveira99/SimulatorGame/assets/117695086/61093c36-c736-4697-ad43-49172610235a)
-
-![over](https://github.com/JennieOliveira99/SimulatorGame/assets/117695086/f3c179e4-803f-4d8f-8622-1aa497c55f5e)
 
 ## 🌟🌟🌟Colaboradores
-![eu](https://github.com/JennieOliveira99/SimulatorGame/assets/117695086/94f5010b-0478-4307-9cd4-9a5f0492eca1)
+
+
+<h2>🌸Jennyfer Alvim</h2> 
+Programadora Web e artista apaixonada por transformar imaginação em realidade digital. 
+
+![eu](https://github.com/JennieOliveira99/SimulatorGame/assets/117695086/19f9ea17-6846-42d8-810d-26f56fc27324)
 
 
 
