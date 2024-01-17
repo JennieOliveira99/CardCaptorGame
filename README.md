@@ -8,6 +8,9 @@ Ao final, o jogador entra em outro jogo onde deverá capturar a carta onde Sakur
 
 <p align="center"><img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/></p>
 
+## 🌟🌟🌟Baixar:
+1. Faça dowload do arquivo a partir da branch Develop.
+2. No seu computador, localize a pasta compactada e clique em "extrair tudo".
 ## 🌟🌟🌟Como Usar:
 
 1. Abra o arquivo `index.html` em um navegador web.
