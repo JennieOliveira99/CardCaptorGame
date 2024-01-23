@@ -57,9 +57,11 @@ Programadora Web e artista apaixonada por transformar imaginação em realidade 
 ![eu](https://github.com/JennieOliveira99/SimulatorGame/assets/117695086/19f9ea17-6846-42d8-810d-26f56fc27324)
 
 
+## 🌟🌟🌟Desenvolvimento
+<h2>🌸 RPG 🌸</h2> 
+Página RPG com a história do jogo foi feita em HTML, uma função foi criada para que quando o usuário clique na tela, a música do jogo inicie.
+Uma função foi criada para que quando o usuário clique no botão avançar, mude o texto, o background e a imagem da personagem.
+<h2>🌸 Jogo de captura 🌸</h2> 
 
-## Licença
 
-Este projeto está sob a [Licença MIT](LICENSE).
 
----
